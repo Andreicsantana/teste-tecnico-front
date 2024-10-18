@@ -1,5 +1,5 @@
 <template>
-  <router-view />
+  <router-view style="background-color: grey;" />
 </template>
 
 <script>
